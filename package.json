@@ -1,8 +1,9 @@
 {
   "name": "tiktokens",
-  "displayName": "tiktokens",
+  "displayName": "Output Tiktokens",
   "description": "Get the tiktoken tokens for content",
   "version": "0.0.1",
+  "publisher": "ItamarBarkai",
   "repository": { 
     "type": "git", 
     "url": "https://github.com/itamarbarkaims/tiktokens.git" 
@@ -52,9 +53,11 @@
     "@typescript-eslint/eslint-plugin": "^7.0.2",
     "@typescript-eslint/parser": "^7.0.2",
     "eslint": "^8.56.0",
-    "tiktoken": "^1.0.13",
     "typescript": "^5.3.3",
     "@vscode/test-cli": "^0.0.6",
     "@vscode/test-electron": "^2.3.9"
+  },
+  "dependencies": {
+    "tiktoken": "^1.0.13"
   }
 }
