@@ -18,11 +18,7 @@ This extension contributes the following settings:
 See https://github.com/openai/tiktoken for model names
 
 ## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 0.0.1
-
-Initial release of tiktokens token extraction vscode extension.
+Yet to be published to vscode marketplace. Available as pre-release here:
+https://github.com/itamarbarkaims/tiktokens/releases/tag/v0.0.1
 
 ---
