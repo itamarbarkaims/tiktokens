@@ -1,7 +1,11 @@
+
 # tiktokens README
 
 This extension counts and outputs the OpenAI models tokens based on the tiktoken tokeniser library.
 See https://github.com/openai/tiktoken
+
+![GitHub all releases](https://img.shields.io/github/downloads/itamarbarkaims/tiktokens/total)
+![GitHub](https://img.shields.io/github/license/itamarbarkaims/tiktokens)
 
 ## Features
 
